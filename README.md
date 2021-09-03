@@ -10,7 +10,7 @@ Bert-quechua es un modelo de lenguage basado en redes Transformers para el quech
 El modelo utiliza un tokenizador Byte-level BPE con un vocabulario de 52000 tokens de subpalabras.
 
 ## Usabilidad
-Una ves descargado Los pesos y el tokenizador en la seccion de arriba es necesario adjuntarlo en un sola carpeta en mi caso fue `quechuaBERT`.
+Una ves descargado los pesos y el tokenizador en la seccion de arriba es necesario adjuntarlo en un sola carpeta en este caso fue `quechuaBERT`.
 
 ```python
 from transformers import pipeline

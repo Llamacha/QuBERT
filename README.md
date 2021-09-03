@@ -21,7 +21,7 @@ fill_mask = pipeline(
     tokenizer="./quechuaBERT"
 )
 ```
-Se hace la prueba, la cual esta fase de mejoras.
+Se hace la prueba, la cual esta en fases de mejoras.
 
 ```python
 fill_mask("allinllachu <mask> allinlla huk wasipita.")

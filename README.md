@@ -1,5 +1,5 @@
 # bert-quechua
-Bert-quechua es un modelo de lenguage basado en redes Transformers para el quechua, estando aun en fase de desarrollo.Bert-quechua fue pre-entrenado con corpus netamente en quechua sureño (collao y chanka), donde la cantidad de corpus sigue siendo muy poca.Asi mismo bert-quechua fue pre-entrenado mediante el enfoque de RoBERTa: A Robustly Optimized BERT Pretraining Approach.
+Bert-quechua es un modelo de lenguaje basado en redes Transformers para el quechua, estando aun en fase de desarrollo. Bert-quechua fue pre-entrenado con corpus netamente en quechua sureño (Collao y Chanka), donde la cantidad de corpus sigue siendo muy poca. Asi mismo bert-quechua fue pre-entrenado mediante el enfoque de RoBERTa: A Robustly Optimized BERT Pretraining Approach.
 
 ## Acerca del modelo
 |Modulo| Descarga |
@@ -10,7 +10,7 @@ Bert-quechua es un modelo de lenguage basado en redes Transformers para el quech
 El modelo utiliza un tokenizador Byte-level BPE con un vocabulario de 52000 tokens de subpalabras.
 
 ## Usabilidad
-Una ves descargado los pesos y el tokenizador en la seccion de arriba es necesario adjuntarlo en un sola carpeta en este caso fue `quechuaBERT`.
+Una vez descargado los pesos y el tokenizador en la seccion de arriba es necesario adjuntarlo en un sola carpeta, en este caso fue `quechuaBERT`.
 
 ```python
 from transformers import pipeline

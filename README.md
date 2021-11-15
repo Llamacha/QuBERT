@@ -1,4 +1,4 @@
-# bert-quechua
+# LlamaRoBERTa
 Bert-quechua es un modelo de lenguaje basado en redes Transformers para el quechua, estando aun en fase de desarrollo. Bert-quechua fue pre-entrenado con corpus netamente en quechua sureño (Collao y Chanka), donde la cantidad de corpus sigue siendo muy poca. Asi mismo bert-quechua fue pre-entrenado mediante el enfoque de RoBERTa: A Robustly Optimized BERT Pretraining Approach.
 
 ## Acerca del modelo

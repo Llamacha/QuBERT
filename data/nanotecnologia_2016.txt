@@ -1,0 +1,606 @@
+Conozcamos la nanotecnología
+Chay nanotecnologiyata Riqsirisunchis
+Noboru Takeuchi
+
+Se cree que la Nanociencia y Nanotecnologia van a
+poder usarse en mucha áreas diferentes y que va a
+impactar todos los aspectos de nuestras vidas. Por
+eso se dice que la nanoteconología va a detonar una
+revolución tecnológica en el siglo XXI.
+Iñikun nanociencia hinallataq nanotecnología
+nisqakuna atipaqnin huq askha huqniraqkuna
+allinchanapaq hinallataq mancharichin llapallan
+imaymanapi kausayninchista. Chaymi nikun
+nanotecnología nisqata iskaychunka uqniyuq
+pachaq watapi (Siglo XXI).
+
+Traducido por
+Santiago Cuba Huamaní y Gustavo Cuba Supanta
+Ilustraciones Citlalin Arcos
+
+Conozcamos la nanotecnología
+Chay nanotecnologiyata riqsirisunchis
+Noboru Takeuchi
+Agradecimientos
+
+Traducido por
+Santiago Cuba Huamaní y Gustavo Cuba Supanta
+
+A Justo Rojas y a Juan Pablo Hurtado por su apoyo.
+Las siguientes ilustraciones que aparecen como fondos de
+páginas son imágenes ganadoras del Concurso Internacional
+SPMAGE07 organizado por el ICMM del CSIC y de la Universidad Autónoma de Madrid: Páginas 12, 13, 30 y 31 Nanoanillos
+por Andreas Fuhrer, 22 y 23 Raiz por Konatantin Demidenko.
+Imagen de la página 29 cortesía de Saw Hla, página 25 Darthmoth College, y página 33 Manu Barandarián.
+Conozcamos la nanotecnología, Riqsiyku nanotecnología se
+terminó de imprimir en los talleres de Design, ubicados en Av.
+Bolivia Nº148 - Ofc.2026 C.C.Centro Lima, Lima.
+El tiraje consistió de 1000 ejemplares en papel Couche Brillante de 150 gs, julio 2016.
+
+Ilustraciones Citlalin Arcos
+
+Dr. Enrique Graue Wiechers
+Dr. Leonardo Lomelí Vanegas
+Dr. William Lee Alardín
+
+Q.I. Marisol Romo
+
+Sociedad Peruana de Física
+Jaime Vento Flores
+Presidente
+Carlos Landauro Saenz
+VicePresidente
+Juan Carlos Gonzales Gonzales
+Secretario
+Justiniano Quispe Marcatoma
+Tesorero
+Marco A. Merma Jara
+Sec. Prom. Social
+en Perú: julio 2016
+
+DR Sociedad Peruana de Física
+
+Esta publicación fue financiada
+por la DGAPA-UNAM, proyecto PAPIME No. PE100316
+y por la Sociedad Peruana de Física
+
+Impreso y hecho en Perú
+Perú
+ISBN: 978-607-02-7972-0
+
+3
+
+El quechua
+Qheswa
+simi
+4
+
+5
+
+Qheswa simiqa kikin kaq simin antikuna peruanukunaq rimaynin, qheswa
+simiqa allinchay inkakunaq rimayninmi, ñawpaq allin q’anchariyninpi
+mast’arikuran, qollasuyumanta chinchaysuyu kama. Kunan kawsariypiqa
+tawa qepaq rimaymi, aswantaqa América nisqapi, hichaqa América teqsi
+muyupiqa aswan kikin kaq simin.
+Rimakunmi Sudamérica nispa kinraypi Boliviapi, Perupi, Chilepi, Ecuadorpi hinallataq Argentinapi.
+Qheswa simipiqa iskay t’aqaqmi rimayninqa: quechua I nisqaqa qheswa
+simi rimaymi rimakun antisuyo chawpinpi hinallataq chinchaysuyo
+chawpinpi; chaymantataq quechua II nisqataq mast’arikuranpuni,
+rimakuntaqmi Ecuadorpi, chinchapi hinallataq qollapi Perú llaqtapi, Boliviapi, Chilepi hinallataq Argentinapi ima.
+Kay qelqasqapiqa ruwakunmi quechua II nisqawan Qosqo runakunaq
+rimaynin hina hichaqa kunankama.
+
+El quechua es un idioma originario de los Andes peruanos. Fue la
+lengua utilizada por el Imperio de los Incas y en su época de mayor
+esplendor su uso se extendió desde el sur de Colombia hasta el norte
+de Argentina. Actualmente es el cuarto idioma más hablado en América
+y es la lengua originaria más usada en el continente. Se habla en el occidente de Sudamérica en Bolivia, Perú, Chile, Ecuador y Argentina. En el
+quechua se distinguen dos ramas: la quechua I que se habla en la
+sierra central y norcentral del Perú y la quechua II que tuvo una mayor
+expansión y se habla en Ecuador, el norte y sur de Perú, Bolivia, Chile
+y Argentina. En este texto usamos la rama II hablada en Cuzco.
+
+El pantalón que no se ensucia
+Mana que llichakoq wara
+Te sientas a comer y se te derrama tu chicha
+morada encima de tu pantalón blanco.
+Mikhunaikipaq tiyayunki hinaspa kulli aqha unu
+hich'ayukun yuraq waraykipataman
+
+También son realidades mejores tratamientos y medicamentos contra
+enfermedades como el cáncer; focos de luz que consumen muy poca
+energía; fibras más resistentes que el acero, las cuales se pueden usar
+en la fabricación de nuevos materiales. Todo esto y más es el resultado
+de la investigación que se lleva a cabo en los campos de la nanociencia
+y la nanotecnología.
+Para entender cómo se ha logrado alcanzar estos resultados tan
+“fantásticos”, necesitamos hablar de medidas tan pequeñas como las
+de unos cuantos nanómetros.
+Cheqaqllataqmi huqpas allin ruwaykuna hinallataq allin hanpikunan
+onqoy kunamantan imaynan cancer nisqa hina, chiqan kallpawan ch'iq
+qanchariq mikhusqan, allin seq'a acero hina, chaykunatan hap'ina musoq
+ruwanakunapi. Llapan kaykunan astawan lloqsiriq maskariykunapi,
+wakirintaqmi nanociencia chaypas nanotecnología nisqakunapi.
+
+6
+
+En lugar de correr a cambiarte, sólo tomas una
+servilleta y secas el líquido que se resbaló por la
+tela sin mojarla ni ensuciarla. Parece extraño
+pero ya es una realidad: telas que repelen los
+líquidos y además, no se manchan.
+Phawaspa t’ilaay kasiaqtin huq unkhuñallata
+hap'ispa
+chay
+apichasqata
+ch'akichinki
+llusq'asqata unkhuñapatanta mana apichaspa
+mana quellichaspa. Mana reqsisqan kanman
+chaypas ñan cheqayña: unkhuñakunaqa manan
+ch'akichinchu hinaspapas manan map'achanchu
+
+Yacharinapaq imaynatan wakirichinku aypariykunata hina, rimaytan
+munanchis huch'uy phururiykunata imaynan nanómetros nisqakunata
+hina.
+
+7
+
+El Tiranosaurio Enano
+Huch'uy tiranosaurio nisqa
+
+¿Es un error o una contradicción? el Tiranosaurio rex
+es un animal muy grande y nano es algo pequeño.
+¿Huq pantasqachu huq hayuchu?, chay Tiranosaurio
+rex nisqaqa huq uywa ancha hatun. Chaymi nano
+nisqaqa huch'uyllataqmi.
+
+Antes de hablar del nanómetro, hablemos del significado del prefijo nano.
+8
+
+9
+
+Ya dijimos que nano es algo muy pequeño, sin
+embargo, en algunos museos con fósiles encontramos uno al que llaman Nanotiranosaurios rex.
+Manaraq nanómetro nisqamanta rimashaspa uran
+seq'e simipi nano nisqa imaninantaraq rimayusun
+ñan ninchisña nano nisqaqa ancha huch'uyllapunin,
+chaymantaqa huq museos nisqakunan fósiles tarisqa
+nisqakunan chaytan ninku Nanotiranosaurios rex
+nisqa.
+
+Esto se explica porque nano es un
+prefijo griego, que significa enano.
+Entonces un Nanotiranosaurios rex
+es un Tiranosaurio enano
+Chaninchakunmi kayqa, imanaqtin
+nano nisqaqa huq uran seq'e simipi
+griego nisqan, imaninmi chay tanka
+ninmi. Chaymi chay huq Nanotiranosaurios rex nisqaqa huq Tiranosaurio
+tanka nispa.
+
+El resultado es una unidad de medida muy pequeña. Para tener una idea de
+qué tan pequeño es un nanómetro, vamos a medir en nanómetros objetos muy
+chicos, por ejemplo, el diámetro del virus de la influenza es de aproximadamente 200 nm, el de un glóbulo rojo es de 7,000 nm y el de un cabello
+humano promedio es de aproximadamente 75,000 nm. Son muchos nanómetros.
+Lloqsisqantaqmi huq huqlla ch'ipuch'ipuy ancha huch'uylla. Yuyayniyuq
+kananpaq, huch'uyllataq huq nanómetro nisqaqa, hakuchi nanómetros nisqata
+ch'ipuych'ipusun nanómetro nisqawan imaymana huch'uy rurukunata.
+Imaynan kuskant'aqaqnin virus nisqapi influenza nisqapiwan achhuykuy hina
+iskaypachaq (200) nm, globulo rojo nisqapiwan qanchis waranqa (7000) nm,
+runa chuqchataq achhuykun qanchis chunka pisqayuq waranqa (75000) nm.
+Askhan kanku nanómetros nisqakuna.
+11
+
+El Nanómetro
+¿Y que es un nanómetro?, ¿Un metro enano?
+Más precisamente, un nanómetro es un metro
+dividido en mil millones. El símbolo que se usa
+es nm.
+
+Nanómetro nisqa
+¿Imataq huq nanómetro nisqari?, ¿Huq metro
+tankari?
+Astawan kikin huq nanómetro nisqaqa, chay huq
+ch'ipuch'ipuy t'aqaq waranqa hunu huqtaq huq
+waranqa ñeqen t'aqaq, hinaqa huq waranqan
+unanchantaqmi ruwarikunanpaq chay nm.
+
+12
+
+Las Nanoestructuras
+
+Nanoestructuras
+nisqakunan
+
+Se llaman nanoestructuras a objetos cuyo
+tamaño varía desde unos pocos hasta cientos de
+nanómetros.
+
+Nanoestructuras nisqakunaqa kanmi ruwanapaq,
+piqpa sayaynin chaymanta pacha huq chikanmanta,
+pachaqnin kama nanómetros nisqa.
+
+Nanociencia es el estudio de los procesos fundamentales que ocurren en las nanoestructuras,
+mientras que la nanotecnología busca su aplicación práctica.
+
+Nanociencia nisqata allinta qatinakuspa yachaymi,
+nanoestructuras nisqapi kashan, nanotecnología
+nisqataq maskan ruwapakuyman rin.
+
+A veces se llama nanotecnología al poder controlar la materia a escala atómica o molecular.
+
+Huq mantaqa nanotecnología nisqata, ninmi khaway
+atipayta ruwanakunata ancha atómica nisqata
+chaymantapas molecular nisqakunaman.
+
+13
+
+¿Imataq kusa allin hina, sayaykuna
+piqpa huq pachaq chaymanta nm?
+Nanómetros nisqapi hina kanmi allinnin ruwanakunapaq
+imaymanamanta ruwasqa sayaynin manta yachasqa kanchis
+kausayninchispi sapa p'unchaw.
+Qhawarichisqan Tinkuchisunchis huq siwita qorimanta huq
+walqanawan kikin ruwanamanta ch'uyanmanta qawarisuntaq
+sayayninta ruwaynintawan huqniraqmi, iskaynin ruwasqakuna
+kikillantaqmi kanku kaqninkuna física hinallataq química
+nisqakunan, imaynan Tullpun, chuchuynin ariynin t'akaynin
+kanraqmi huqpas.
+14
+
+¿Y qué tienen de especial los
+tamaños entre l y 100 nm?
+A escalas de nanométros, las propiedades de los
+materiales difieren en muchas formas de las
+propiedades de la materia a tamaños a los que
+estamos acostumbrados en nuestra vida cotidiana.
+Por ejemplo, si comparamos un anillo de oro con
+un collar del mismo material y de la misma
+pureza, podemos observar que aunque de forma
+y tamaño distintos, los dos objetos tienen las
+mismas propiedades físicas y químicas, tales
+como el color, la dureza, el punto de fusión, la
+densidad, etc.
+
+15
+
+No podemos decir lo mismo de las nanoestructuras de oro ya que sus propiedades son muy distintas a las del oro que conocemos.
+Pueden ser rojas, naranjas, púrpuras, o hasta verdosas, dependiendo de su
+tamaño.
+Manan atiswaychu niytaqa kikintaqa nanoestructuras qori manta nisqata, allin
+ruwanankunapaq kanmi huqniraqkuna qorimantaqa riqsisqanchiskuna.
+Kanmanmi pukakuna, qoriqellokuna, sansapukakuna, qomerkunapas,
+sayayninmanta hina.
+16
+
+Esferas de 25 nm
+
+Esferas de 50 nm
+
+Esferas de 100 nm
+
+Cambia también su punto de fusión y sus otras propiedades físicas
+y químicas. Nuestra nanoestructura de oro deja de comportarse
+como el oro que nosotros conocemos.
+La investigación en nanotecnolgía busca entender y aprovechar
+estas nuevas propiedades para fabricar materiales e instrumentos
+que funcionen mejor.
+Huqpas T'iqrallantaqmi ch'umaq kikinpi huq ruwanantaqmi física
+hinallataq química nisqakuna. Noqanchispa nanoestructura nisqaqa
+qorimantan, manan qorimanta hinachu, noqanchispa riqsisqanchis.
+T'aqwinapiqa nanotecnología nisqaqa maskan chaninchayta
+hinallataq hap'iyta musoq ruwaykunata ruwanapaq ruwanakunawan
+wakichun allinta.
+
+17
+
+21
+
+Estas son algunas de las pinturas murales
+en las que se utilizó el azul maya
+
+Kaykunan wakinkunaqa perqakunapi llimp'isqakuna
+Maya anqaskunaq ruwasqankuqa
+
+Hoy se sabe que dicha pintura está formada por una mezcla de índigo (el
+tinte de los pantalones de mezclilla) con una arcilla, la cual tiene cavidades de tamaño en los nanómetros. Los átomos que forma el índigo
+quedan atrapados en dichas cavidades, creando una estructura que le da
+al material su color y estabilidad característicos.
+Kunanqa yachakunmi chay llinphina ruwasqa kashanmi huq hunt'asqa
+indigo nisqawan (chharqosqa warakunapi tulipayuq) huq t'oroñasuwan
+chaymi kashan t'oqokunayuq sayay nanómetro nisqapi. Kankum átomos
+nisqa ruwakun kanmi indigo nisqawan chaypin qhepan hap'ispa chay
+t'oqokunapi, kanman huq perqasqata ruwanata qon tullpunta hinallataq
+allin taqyaq chaninkunata.
+
+22
+
+Aunque nuestros antepasados usaron
+nanoestructuras para fabricar sus vitrales o
+pintar sus paredes, ellos fabricaban estos
+materiales sin saber lo que sucedía.
+Esta es la diferencia, lo realmente nuevo de
+la nanotecnología es la habilidad que tenemos hoy para ver y manipular la materia a
+nivel de átomos y moléculas.
+Maskipas noqanchispa ñaupa machunchis
+aulanchiskuna ima nanoestructuras nisqata
+ruwariranku aswanta ruwarinankupaq qespi
+tullpuyuq hinallataq llinphiy perqankuta,
+paikunan askhata ruwariranku chay ruwanakunata mana yachaspa imapas kananta.
+Kaymi huq niraq, chaypuni nanotecnología
+nisqa musoq, allin kaspa kapuwanchis
+kunan
+qhawarinanchispaq hinallataq
+hap'inanchispa ruwanata átomos hinallataq
+moleculas nisqakunata.
+
+23
+
+¿Cómo se pueden ver las nanoestructuras?
+
+Imaynatan nanoestructuras nisqata qhawarina?
+
+A finales del siglo XX se comenzaron a perfeccionar instrumentos
+que ya existían y se inventaron nuevos. Hoy existen unos poderosos
+microscopios que en lugar de usar la luz como los microscopios que
+conocemos, usan electrones. Se llaman microscopios electrónicos.
+
+Iskay chunkapasaq wata tukukushaqtin, qallarikun allin llanq'anakunapaq
+ña karanña chaypi kamarikun musoqkuna. Kunantaq kan atipaq
+microscopio nisqa q'anchariywan ruwarina kashaqtin microscopios nisqa
+hina riqsisqanchis ruwana electrones nisqawan. Microscopios electrónicos
+nisqan sutin.
+
+24
+
+25
+
+Mira como se ve una hormiga usando ese
+microscopio.
+Qhawariy imaynan rikukun
+microscopio nisqata hap'irispa.
+
+huq
+
+sisi
+
+En los años ochenta se inventó el microscopio de efecto túnel
+STM por sus siglas en inglés (scanning tunneling microscope).
+El funcionamiento del STM es completamente diferente al de
+los microscopios ópticos o electrónicos.
+Si tenemos un objeto y queremos saber su forma, podemos
+'verlo', tocándolo con la mano, para sentir los diferentes contornos del objeto. De esta manera estamos usando nuestra mano
+para estudiar el objeto.
+
+26
+
+Pusaqchunka watakunapiqa microscopio de efecto tunel (STM)
+nisqa kamarikuran inglés rimaypiqa (scanning tunneling microscope). STM nisqa kallpachakuspa wakichin, llapachanmi
+uqniraq microscopios ópticos kallantaqmi electrónicos nisqa
+kasqanmantaqa.
+Huq ruwarinanchis kaqtinqa chaymanta yachayta munanchis
+imaynatas ruwarikun, atiswaymi qhawariytaqa makinchiswan
+hap'iyuspa, nqanchis huqniraqkunata riparananchispaq
+muyuriqninpi ruwana.
+Aqnatan makinchiswanqa ruwarinchis ruwariykunata yacharina
+t'aqpirispa maskarispa.
+
+27
+
+El STM funciona de manera similar: tantea la superficie con
+algo equivalente a la mano: una punta metálica la cual termina en unos cuantos átomos.
+Kanmi STM nisqaqa riqch'akuytan wakirichin: hawanpiqa
+kanmantaqmi makilla imapas rantin: Huq choqe ñauchi
+tukun huq átomos nisqakunapi.
+
+28
+
+Con este microscopio podemos ver átomos. También con este
+microscopio podemos mover los átomos como se puede ver en la
+figura siguiente.
+Huqpas microscopio nisqawanqa atiswaymi kuyuchiyta átomos
+nisqawanqa Imaynan atisway qhawariyta siq'inchasqa qatiqninpi.
+Huqpas microscopio nisqawanqa atiswaymi kuyuchiyta átomos
+nisqawanqa Imaynan atisway qhawariyta siq'inchasqa qatiqninpi.
+
+29
+
+¿Cómo se pueden fabricar las nanoestructuras?
+¿Imaynatan nanoestructuras kunata nisqata
+ruwarisway askhata?
+
+Usando métodos químicos, por medio de algunas reacciones
+químicas muy controladas, se pueden fabricar muchas clases
+de nanoestructuras, entre ellas sobresalen los llamados nanotubos de carbono.
+Wakirichispa allinchay químicos nisqapi, hatarin huqkuna
+chawpipi químicas sinchi qawarisqa nisqa, atikunmanmi
+askha ruwaykunata askha huqniraq nanoestructuras nisqata
+chaykunapin atipan nanotubos paypa carbono nisqa.
+
+30
+
+Las nanoestructuras se pueden fabricar usando métodos físicos, químicos y biológicos.
+Por medio de métodos físicos se pueden fabricar por
+ejemplo, estructuras en forma de capas muy delgadas de algunos nanómetros de grosor, las cuales se
+pueden utilizar para guardar información en las computadoras, o música en aparatos como el ipod, el mp3
+o en un teléfono celular.
+Nanoestructuras kuna nisqataqa atikunmanmi askhata
+yuwariytaqa sapanka allinchaypi físicos, químicos
+hinallataq biológicos nisqakunapi.
+Sapanka chawpichay físicos nisqapi atikunmanmi
+askha ruwakuyta, qhawarichispa estructuras nisqa
+llanulla t'aqa t'aqa huqkuna nanómetros nisqa rakhu,
+chaykunaqa allinchakunmanmi allinta allcharinapaq
+computadorakunapi chay willakuykuna nisqapi
+kanmantaqmi tusuy takikuna aparatokunapi imaynan
+chay ipod nisqapi, huqpas el mp3 nisqapi huqpas
+chay uq teléfono celular nisqapi.
+
+31
+
+Como su nombre lo indica tienen forma de tubo y están
+hechos de carbono.
+Imaynan sutin nikun toqoro hina ichaqa k'illinsamanta
+ruwasqan.
+
+Pueden tener un diámetro de algunos nanómetros, y una longitud de
+varios centímetros. Los nanotubos de carbono son las fibras más fuertes
+que se conocen. Es por eso que se piensa que se pueden fabricar cables
+muy resistentes a partir de ellos.
+
+También se puede fabricar nanoestructuras usando seres vivos
+como plantas o bacterias. Un ejemplo es el uso de la bacteria Magnetospirilum griphyswaldense para fabricar nanoestructuras magnéticas.
+
+En la siguiente figura se muestra una imagen de un nanotubo de carbono
+tomada con un microscopio electrónico
+
+Huqpas wakichikunmanmi askha ruwaytaqa nanoestructuras nisqa
+allinchay kausaq uywakunawan hinallataq yurakunawan hinallataq
+onqoymuhukunawan. Huq qhawarichiyqa allinchay bacteria Magnetospirilum griphyswaldense nisqawan askha ruwarinapaq nanoestructuras magnéticas nisqawan.
+
+Kanmanmi huq kuskanchaq nanómetros nisqa wakinpiqa ichaqa huq
+tupay wakinkunaq. Huch'uy tupun nanotuboskuna nisqa k'illinsamanta,
+allinch'ila hanq'ukunan riqsikunñan chaymi ñosqonchakun, atikunanpaq
+askha ruwasqakunata waskhata sinchin seq'ata qallariyninmanta.
+32
+
+Bacteria
+
+Magnetospirilum
+7
+griphyswaldense
+
+Qatiq siq'enpi qhawarichikun huq siq'esqata huq nanotubo nisqata
+k'illinsamanta orqosqata huq microscopio electrónico nisqawan
+
+500nm
+
+33
+
+Los usos de la Nanotecnología
+Allinchay nanotecnología nisqamanta
+
+Bueno y todo esto ¿para qué sirve?
+
+34
+
+Como la nanotecnología no ha llegado a un
+estado de completo desarrollo, muchos productos están todavía en una fase de investigación, y
+no es posible saber cuáles llegarán finalmente
+al consumidor. Entre lo que ya está al alcance de
+nosotros, se tienen aplicaciones electrónicas,
+magnéticas, optolectrónicas, biomédicas,
+farmacéuticas, cosméticas, energéticas, y
+catalíticas.
+Allinmi kay llapanri ¿Imapaqmi allin?
+Nanotecnología nisqa imaynan mana chayamunchu
+huq llapachan wiñayman, ancha miraynin
+kashanraqmi maskariynin chaypi, hichaqa
+manan wakiqchu yachay mihuqmanqa imaraqcha
+chayanqapas tukukuymanqa.
+Noqanchispa aypananchisqa ñan kashanña,
+karanñan kanñan ruwayqa electrónicas, magnéticas, optoelectrónicas, biomédicas farmacéuticas,
+cosmeticas, energéticas chaymanta catalíticas
+nisqakunapi.
+
+Por ejemplo, en la fabricación de artículos tan diversos como:
+Pelotas de tenis que duran más.
+Bicicletas, raquetas de tenis y partes de automóviles
+más resistentes y livianas.
+Pinturas y recubrimientos contra la corrosión, rayado
+o radiación.
+Herramientas para cortar los metales.
+Bloqueadores de sol y cosméticos.
+Ropa y textiles que no se manchan.
+Qhawarichiykuna askha ruwaykunapi imaymana
+mikhunakunapi imaynan:
+Tenis nisqa sinkupi as unay.
+Bicicleta nisqa, raqueta paypa tenis nisqa, partes de
+automoviles aswan ch'ilayusqata hinallataq chhaplla. 35
+Llimphiñakuna hinallataq patachaqkuna sarru awqa
+(yari).
+Sananpasqa kallantaq radiación nisqapi.
+Ruwanakuna qaqlla kuchunapaq.
+Bloqueadores nisqa intimanta kallantaq cosmeticos
+nisqa. P'acha kallantaq awaykuna mananqhellichakunchu.
+
+La nanotecnología también tiene aplicaciones en la
+obtención de nuevas formas de energía y en la protección del medio ambiente:
+
+36
+
+En la computación y la electrónica:
+Chay computacion hinallataq chay
+electrónica nisqapi:
+
+En celdas solares más livianas, flexibles y baratas.
+En la obtención de luz blanca más eficiente, con diodos emisores
+de luz (LEDs)
+En el almacenamiento de hidrógeno como combustible.
+En la fabricación de mejores y más baratos catalizadores para la
+reducción de la contaminación del medio ambiente.
+En el proceso de refinación del petróleo.
+Para mejorar la combustión del carbón y reducir su efecto contaminante.
+
+37
+
+Kanmi
+nanotecnología
+nisqa
+huqpas
+kanmi
+allinchanapaq atipasqa mosoq kallpachaykunata
+hinallataq kaypacha amachayta:
+Chay celdas solares (inti qhawana) nisqapi aswan chhaplla,
+kuyuchiy atiy hinallataq aypay atiylla.
+Yuray q'anchariy atipaypi aswan allinta, diodos emisores de luz
+(LED) nisqapi.
+Askha ruwarinapi allinkunapi hinallataq aswan aypay atinapi catalizadores nisqa kaypachata pisiyachispa qhellichanamanta.
+Ch'uyanchay tukunapi petroleo nisqata.
+Wayq'una k'illinsapaq allinchanapaq hichaqa pisiyachina Sinchi
+qhellichayninta.
+
+Para fabricar computadoras cada vez más potentes, rápidas,
+baratas y con mayores capacidades de almacenamiento de
+información.
+En la fabricación de dispositivos electrónicos más pequeños y
+versátiles.
+Computadoras nisqa ruwaykunapi sapa kutin aswan allin hatun
+usqhay, aypaq atiy hinallataq aswan hatunkuna willakuy
+allchayninkuna.
+Ruwayninkunapi dispositivos electrónicos nisqa asway huch'uy
+kuna hinallataq ratulla ruwaqkuna.
+
+En las ciencias de la vida:
+Hatun yachaykuna kausaypi:
+
+38
+
+Como transporte de medicamentos; como marcadores médicos, por ejemplo para detectar los tumores.
+En el tratamiento de enfermedades como el cáncer, usando
+nanoparticulas y radiación infrarroja para quemar tumores.
+En las prótesis con nuevos materiales.
+En el uso de nuevos materiales y aleaciones para tapar las
+cavidades de los dientes.
+Hampikuna apaykunapi imaynan marcadores médicos nisqa
+qhawarichiykuna ch'upukuna tarinapaq.
+Onqoykuna hanpinapaq imaynan pay cáncer nisqa allinchay
+nanopartículas hinallataq radiación infrarroja nisqa ch'upukuna
+ruphachinapaq.
+Chay ch'ulla protesis nisqapi mosoq ruwanakunawan.
+Mosoq ruwanakuna allinchanapaq hinallataq ch'arqoy t'oqo
+kirukuna kirpanapaq.
+
+Se cree que la Nanociencia y Nanotecnologia van a poder
+usarse en mucha áreas diferentes y que va a impactar todos
+los aspectos de nuestras vidas. Por eso se dice que la nanoteconología va a detonar una revolución tecnológica en el
+siglo XXI.
+Iñikun nanociencia hinallataq nanotecnología nisqakuna
+atipaqnin huq askha huqniraqkuna allinchanapaq hinallataq
+mancharichin llapallan imaymanapi kausayninchista.
+Chaymi nikun nanotecnología nisqata iskaychunka uqniyuq
+pachaq watapi (Siglo XXI).
+
+39
+
+

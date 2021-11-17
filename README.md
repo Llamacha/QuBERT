@@ -1,5 +1,5 @@
 # LlamaRoBERTa
-LlamaRoBERTa es un modelo de lenguaje basado en RoBERTa para el quechua, estando aun en fase de desarrollo. Nuestro modelo de lenguaje fue pre-entrenado con corpus netamente en quechua sureño (Collao y Chanka), donde la cantidad de corpus sigue siendo muy poca.
+LlamaRoBERTa es un modelo de lenguaje basado en RoBERTa para el quechua. Nuestro modelo de lenguaje fue pre-entrenado con texto del quechua sureño (Collao y Chanka).
 
 ## Acerca del modelo
 |Modulo| Descarga |

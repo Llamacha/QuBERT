@@ -17,8 +17,8 @@ from transformers import pipeline
 
 fill_mask = pipeline(
     "fill-mask",
-    model="./quechuaBERT",
-    tokenizer="./quechuaBERT"
+    model="./LlamaRoBERTa",
+    tokenizer="./LlamaRoBERTa"
 )
 ```
 Se hace la prueba, la cual esta en fases de mejoras.

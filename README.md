@@ -10,7 +10,7 @@ LlamaRoBERTa es un modelo de lenguaje basado en RoBERTa para el quechua. Nuestro
 El modelo utiliza un tokenizador Byte-level BPE con un vocabulario de 52000 tokens de subpalabras.
 
 ## Usabilidad
-Una vez descargado los pesos y el tokenizador en la seccion de arriba es necesario adjuntarlo en un sola carpeta, en este caso fue `quechuaBERT`.
+Una vez descargado los pesos y el tokenizador en la seccion de arriba es necesario adjuntarlo en un sola carpeta, en este caso fue `LlamaRoBERTa`.
 
 ```python
 from transformers import pipeline
